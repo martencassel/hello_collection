@@ -1,4 +1,5 @@
 namespace: your_namespace
 name: hello_collection
 version: '1.0.0'
+authors: 'Marten'
 dependencies: {}
